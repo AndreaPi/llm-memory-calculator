@@ -1,7 +1,7 @@
 # llm-memory-calculator
 A *very* simple calculator to estimate the GPU memory usage of a 🤗 [Transformers](https://github.com/huggingface/transformers) model, according to its configuration file. The script estimates memory requirements respectively for training, finetuning or inference.
 
-> ⚠️ **not thoroughly tested**: use at your own risk. PR welcome!
+> ⚠️ **nearly untested**: use at your own risk. PRs welcome!
 
 
 Basic usage:
